@@ -1,7 +1,7 @@
 
 ## Documentation
 
-[Documentation](https://documenter.getpostman.com/view/20003749/2s946bDFZU)
+[Postman Documentation](https://documenter.getpostman.com/view/20003749/2s946bDFZU)
 
 
 ## Authentication
