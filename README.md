@@ -9,13 +9,13 @@
 #### Register
 
 ```http
-  GET /api/auth/register
+  POST /api/auth/register
 ```
 
 #### Login
 
 ```http
-  GET /api/auth/register
+  POST /api/auth/register
 ```
 
 
